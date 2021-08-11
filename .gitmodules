@@ -1,0 +1,9 @@
+[submodule "jaeger-idl"]
+	path = jaeger-idl
+	url = https://github.com/jaegertracing/jaeger-idl.git
+[submodule "googleapis"]
+	path = googleapis
+	url = https://github.com/googleapis/googleapis.git
+[submodule "protobuf"]
+	path = protobuf
+	url = https://github.com/protocolbuffers/protobuf.git
