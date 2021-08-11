@@ -5,7 +5,7 @@ from setuptools import Extension, setup
 setup(
     name='jaeger_model_proto',
     ext_modules=[Extension("jaeger_model_proto", ["jaeger_model_proto.c"])],
-    version="0.1.0",
+    version="0.1.1",
     packages=[],
     license="MIT",
     description="Jaeger protobuf model",
